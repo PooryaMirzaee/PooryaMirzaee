@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Poorya Mirzaee</h1>
 <h3 align="center">Founder & CTO at HELIOco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pooryamirzaee&label=Profile%20views&color=0e75b6&style=flat" alt="pooryamirzaee" /> </p>
-
 - 🔭 I’m currently working on [Shopisaz](shopisaz.ir)
 
 - 🌱 I’m currently learning **react & next js**
