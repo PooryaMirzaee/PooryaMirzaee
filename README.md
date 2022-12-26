@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Shopisaz](shopisaz.ir)
 
-- 🌱 I’m currently learning **react & next js**
-
-- 👨‍💻 All of my projects are available at [https://helioco.ir](https://helioco.ir)
+- 🌱 I’m currently learning **next js**
 
 - 📝 I regularly write articles on [pooryamirzaee.ir](pooryamirzaee.ir)
 
