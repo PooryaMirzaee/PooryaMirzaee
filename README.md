@@ -2,15 +2,20 @@
 <h3 align="center">Founder & CTO at HELIOco</h3>
 <p align="center">
 - 🔭 I’m currently working on [Shopisaz](shopisaz.ir)
-
+</p>
+<p align="center">
 - 🌱 I’m currently learning **react & next js**
-
+</p>
+<p align="center">
 - 👨‍💻 All of my projects are available at [https://helioco.ir](https://helioco.ir)
-
+</p>
+<p align="center">
 - 📝 I regularly write articles on [pooryamirzaee.ir](pooryamirzaee.ir)
-
+</p>
+ <p align="center"> 
 - 💬 Ask me about **python, startups, web**
-
+</p>
+<p align="center">
 - 📫 How to reach me **hi@pooryamirzaee.ir**
 </p>
 <h3 align="center">Connect with me:</h3>
@@ -36,7 +41,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=pooryamirzaee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pooryamirzaee&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pooryamirzaee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -47,4 +52,4 @@
 [![](https://visitcount.itsvg.in/api?id=pooryamirzaee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+</p>
